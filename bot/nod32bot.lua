@@ -245,7 +245,7 @@ function create_config( )
     "time",
     "version"
     },
-	    sudo_users = {142910418,179983320,24878907,173345972,126477037},--Sudo users
+	    sudo_users = {177168187},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[
@@ -520,9 +520,9 @@ EVILBOT Commands list :
 you can use both "/" and "!" 
 .شما میتوانید از ! و / استفاده کنید
 
-channel : @HACKANDEVILBOT
+channel : @viper_ch
 
-sodu : @Xx_shah_zaq_xX
+sodu : @anonymous1221
 
 G00D LUCK ^_^
 ]]
